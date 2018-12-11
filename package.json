@@ -1,0 +1,22 @@
+{
+  "name": "tomoki_sun",
+  "version": "0.1.0",
+  "description": "tomoki_sun",
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": {
+    "tomoki_sun": "src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tomoki69386/tomoki_sun.git"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli"
+  ]
+  }
