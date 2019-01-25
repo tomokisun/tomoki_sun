@@ -29,6 +29,10 @@ const items = [
     url: 'https://github.com/tomoki69386',
   },
   {
+    label: 'Site',
+    url: 'http://tomoki69386.github.io/',
+  },
+  {
     label: 'Quit',
     action() {
       process.exit()
