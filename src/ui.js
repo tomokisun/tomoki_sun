@@ -21,16 +21,12 @@ const items = [
     url: 'https://twitter.com/tomoki_sun',
   },
   {
-    label: 'Qiita',
-    url: 'https://github.com/tomoki69386',
-  },
-  {
     label: 'GitHub',
     url: 'https://github.com/tomoki69386',
   },
   {
-    label: 'Site',
-    url: 'http://tomoki69386.github.io/',
+    label: 'tomokisun.eth',
+    url: 'https://opensea.io/tomokisun.eth',
   },
   {
     label: 'Quit',
@@ -44,8 +40,9 @@ module.exports = () => (
   <div>
     <br />
     <div>
-      <Text>デザインできないiOSエンジニア</Text>
+      <Text>Software Engineer</Text>
       <br />
+      <Text>Co-founder and COO of ONE, inc.</Text>
     </div>
     <br />
     <SelectInput items={items} onSelect={handleSelect} />
