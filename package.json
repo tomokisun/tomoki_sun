@@ -1,6 +1,6 @@
 {
   "name": "tomoki_sun",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "tomoki_sun",
   "engines": {
     "node": ">=8"
@@ -34,4 +34,4 @@
     "term-img": "^2.1.0",
     "terminal-image": "^0.1.1"
   }
-  }
+}
